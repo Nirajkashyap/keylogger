@@ -1,4 +1,4 @@
 keylogger
 =========
 
-keylogger puython script 
+keylogger python script 
